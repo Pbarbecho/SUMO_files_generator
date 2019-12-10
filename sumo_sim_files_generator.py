@@ -1,5 +1,5 @@
 # =========================================
-# test routes generation
+# SUMO files -> .rou, sumo.cfg .net . poly generation
 # developed by Pablo Barbecho Phd student
 # pablo.barbecho@upc.edu
 # =========================================
